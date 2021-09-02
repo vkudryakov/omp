@@ -1,0 +1,5 @@
+ sample: proc options(main);
+
+  put edit ('Hello, World !') (A);
+
+ end sample;
